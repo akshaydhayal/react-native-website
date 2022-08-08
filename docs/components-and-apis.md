@@ -1,7 +1,8 @@
----
+---ikwle dcle dl dxkxldx xk xnd 
 id: components-and-apis
 title: Core Components and APIs
----
+---kjdkd
+dk
 
 React Native provides a number of built-in [Core Components](intro-react-native-components) ready for you to use in your app. You can find them all in the left sidebar (or menu above, if you are on a narrow screen). If you're not sure where to get started, take a look at the following categories:
 
